@@ -1,0 +1,10 @@
+User	Scopes	Token
+user1	delete_repo,repo	1r23456789abcdefghijklmnopqrstuvwxyz0123
+user1	gist	1g23456789abcdefghijklmnopqrstuvwxyz0123
+user2	delete_repo,repo	2r23456789abcdefghijklmnopqrstuvwxyz0123
+user2	gist	2g23456789abcdefghijklmnopqrstuvwxyz0123
+user3	delete_repo,repo	3r23456789abcdefghijklmnopqrstuvwxyz0123
+user3	gist	3g23456789abcdefghijklmnopqrstuvwxyz0123
+user4	delete_repo,repo	4r23456789abcdefghijklmnopqrstuvwxyz0123
+user4	gist	4g23456789abcdefghijklmnopqrstuvwxyz0123
+user4	admin:gpg_key,admin:org,admin:org_hook,admin:public_key,admin:repo_hook,delete_repo,gist,notifications,repo,user	4f23456789abcdefghijklmnopqrstuvwxyz0123
